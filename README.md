@@ -30,6 +30,7 @@ By leveraging these insights, banks can improve customer engagement, optimize op
 
 ## Tools & Technologies Used
 
+- SQL
 - Power BI Desktop
 - Power Query Editor
 - DAX (Data Analysis Expressions)
@@ -89,9 +90,6 @@ Created multiple interactive visualizations for:
 
 Applied report themes, formatting, and interactive filtering.
 
-### Step 8: Publishing
-
-Published report to Power BI Service.
 
 ---
 
