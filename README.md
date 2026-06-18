@@ -42,7 +42,7 @@ By leveraging these insights, banks can improve customer engagement, optimize op
 
 ### Step 1: Data Loading
 
-Imported banking dataset into Power BI Desktop.
+Used SQL to join multiple tables and imported the banking dataset into Power BI Desktop for data analysis and visualization.
 
 ### Step 2: Data Cleaning
 
